@@ -29,4 +29,5 @@ el setup del código:</p>
 <p>es importante poner la cantidad total de leds en el objet CRGB</p>
 <ul>
   <li><a href="https://github.com/marmilicious/FastLED_examples/blob/master/test_ArrayOfLedArrays.ino" target="_blank">varias tiras</a></li>
+  <li><a href="https://github.com/marmilicious/FastLED_examples/blob/master/multipleStripsInOneArrayDifferentLengths.ino">varias tiras un arreglo</a></li>
 </ul>
