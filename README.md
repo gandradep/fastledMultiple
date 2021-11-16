@@ -1,6 +1,7 @@
-<h1>fastLed Multiple</h1>
+<h1>fastLed Multiple</h1> 
 
 <p>Tips para tomar en cuenta al conectar tiras led con la esp32 devkit</p>
+<p>Revisar el wiki de la biblioteca <a href="https://github.com/FastLED/FastLED/wiki/Basic-usage">FastLed</a></p>
 
 <h3> pines que No se usa de ESP32</h3>
 <ul>
